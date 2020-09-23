@@ -1,0 +1,7 @@
+naam = "Sander"
+leeftijd = "16"
+woon = "Assendelft"
+afstand = "19,1km"
+tijd = "45 Min reizen"
+print("Hallo mijn naam is " + naam + " en ik ben " + leeftijd + " jaar oud. ") 
+print("Ik woon " + afstand + " van school af " + "ookwel " + tijd)
